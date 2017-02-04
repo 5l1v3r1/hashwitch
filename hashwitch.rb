@@ -13,7 +13,7 @@ puts("╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝ 
 
 puts "Author: Mateus  A.K.A Dctor. Alves \n"
 puts "Version: 1.2 \n"
-puts"E-mail: 0daycode@protonmail.com \n"
+puts"E-mail: 0daycode at protonmail dot com \n"
 puts ("\n")
 end
 
